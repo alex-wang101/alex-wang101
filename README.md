@@ -1,3 +1,7 @@
+![github-header-image (2)](https://github.com/user-attachments/assets/f40f6652-e5d9-4e38-aff4-079616efb7ab)
+
+
+
 # 🦕 About Me:
 📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning <br>👯 I am currently working on Quiry - my LLM powered discord bot<br>🌱 I’m currently learning about the capabilities of semantic searching in natural language processing<br>💬 Connect with me on [linkedin](https://www.linkedin.com/in/alex-wang101)!<br>
 
