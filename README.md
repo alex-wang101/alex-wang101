@@ -1,5 +1,5 @@
-# 💫 About Me:
-📚 I am currently enrolled in Honours Management Engineering at University of Waterloo<br>🤖 I specialize in the field of data science/machine learning <br>👯 I am currently deploying my Quiry - my LLM powered discord bot<br>🌱 I’m currently learning about the capabilities of natural language processing<br>💬 Connect with me on [linkedin](https://www.linkedin.com/in/alex-wang101)<br>
+# 🦕 About Me:
+📚 I am currently enrolled in Honours Management Engineering at University of Waterloo<br>🤖 I specialize in the field of data science/machine learning <br>👯 I am currently deploying my Quiry - my LLM powered discord bot<br>🌱 I’m currently learning about the capabilities of semantic searching in natural language processing<br>💬 Connect with me on [linkedin](https://www.linkedin.com/in/alex-wang101)<br>
 
 
 ## 🌐 Socials:
