@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Wang&text2=Data%20Analyst%20%2F%20Machine%20Learning%20Engineer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Wang%20🔎&text2=Data%20Analyst%20%2F%20Machine%20Learning%20Engineer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 
