@@ -3,7 +3,7 @@
 
 
 # 🦕 About Me:
-📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning<br>👯 I am currently working on Quiry - my LLM powered discord bot<br>🌱 I’m currently creating my J.A.R.V.I.S. robot, using ai agents and mcp<br>💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-wang101)!<br>
+📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning<br>🌱 I’m currently creating my J.A.R.V.I.S. robot, using ai agents and mcp<br>💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-wang101)!<br>
 
 
 ## 🌐 Socials:
