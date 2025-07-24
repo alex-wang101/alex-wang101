@@ -1,9 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Wang%20🔎&text2=Data%20Analyst%20%2F%20Machine%20Learning%20Engineer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Wang%20🔎&text2=Data%20Analyst%20%2F%20Machine%20Learning%20Engineer&width=800&height=400)
 
 
 
 # 🦕 About Me:
-📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning<br>🌱 I’m currently creating my J.A.R.V.I.S. robot, using ai agents and mcp<br>
+📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning<br>
 
 
 ## 🌐 Socials:
